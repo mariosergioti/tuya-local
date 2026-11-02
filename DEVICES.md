@@ -847,6 +847,7 @@ the best option.
 - Dual power monitoring smartplug (Geex)
 - Dual power monitoring smartplug v2 (Smatrul, Deltaco, Knightsbridge)
 - Eightree ET43 3-outlet powerstrip with energy monitoring
+- Ekaza 6-gang wall switch with backlight, power on state and timers
 - ES01 3 outlet + USB powerstrip with individual timers
 - ESP Fort EC-SPSP USB and mains smartplug
 - Gosund P1 3 outlet + USB powerstrip with power monitoring
